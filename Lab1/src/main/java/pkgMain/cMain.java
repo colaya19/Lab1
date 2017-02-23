@@ -1,3 +1,6 @@
+/*
+ * Lab1: Connor Olaya, Wyatt Mccabe, Thanh Tung Trinh, Ian Mears
+ */
 package pkgMain;
 
 import java.util.Scanner;
